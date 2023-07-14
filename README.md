@@ -57,6 +57,10 @@
 ## time vs avg pressure
 ![time vs avg pressure](https://github.com/SuryaMahesh789/Weather-Data-Kibana-Visualization/assets/101471548/cbf228c5-83ee-4fab-a84c-edb2576f353a)
 
+## time vs API response CODE with filter  when response ==200
+![time vs response code with filter](https://github.com/SuryaMahesh789/Weather-Data-Kibana-Visualization/assets/101471548/37f87afa-4206-4795-a4e1-b6b87c1e7e72)
+
+
 ## time vs temperature
 ![time vs temp bar](https://github.com/SuryaMahesh789/Weather-Data-Kibana-Visualization/assets/101471548/4a3b7cbd-37c5-4668-b5c8-a98ccbc65a21)
 
